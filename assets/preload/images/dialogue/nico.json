@@ -1,0 +1,89 @@
+{
+	"position": [
+		-200,
+		-340
+	],
+	"dialogue_pos": "left",
+	"scale": 0.649999999999999,
+	"image": "nico",
+	"animations": [
+		{
+			"idle_offsets": [
+				-8,
+				-7
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "idle instance 1",
+			"loop_name": "talk1 instance 1"
+		},
+		{
+			"loop_name": "talk2 instance 1",
+			"idle_offsets": [
+				-8,
+				-7
+			],
+			"idle_name": "talk2_idle instance 1",
+			"anim": "talk2",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "talk3 instance 1",
+			"idle_offsets": [
+				-8,
+				-7
+			],
+			"idle_name": "talk3_idle instance 1",
+			"anim": "talk3",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "talk1_happy instance 1",
+			"idle_offsets": [
+				-8,
+				-7
+			],
+			"idle_name": "idle_happy instance 1",
+			"anim": "talk_happy",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "talk2_sad instance 1",
+			"idle_offsets": [
+				-8,
+				-7
+			],
+			"idle_name": "talk2_idle_sad instance 1",
+			"anim": "talk2_sad",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "talk3_happy instance 1",
+			"idle_offsets": [
+				-8,
+				-7
+			],
+			"idle_name": "talk3_idle_happy instance 1",
+			"anim": "talk3_happy",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}

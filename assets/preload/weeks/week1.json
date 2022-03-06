@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Shyness", "nico", [146, 113, 253]],
+		["Determined", "nico", [146, 113, 253]],
+		["Open Your Eyes", "nico", [146, 113, 253]]
+	],
+
+	"weekCharacters": [
+		"nico",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "",
+
+	"storyName": "My Sunshine",
+	"weekBefore": "tutorial",
+	"weekName": "Week 1",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

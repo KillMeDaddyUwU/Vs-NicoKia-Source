@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		-200,
+		-340
+	],
+	"scale": 0.649999999999999,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-8,
+				-7
+			],
+			"loop_name": "talk1",
+			"idle_name": "idle"
+		}
+	],
+	"image": "nico"
+}

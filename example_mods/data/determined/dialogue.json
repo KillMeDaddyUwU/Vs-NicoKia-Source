@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.055,
+			"portrait": "nico",
+			"boxState": "normal",
+			"expression": "talk3",
+			"text": "I hope that wasn't too slow..."
+		},
+		{
+			"speed": 0.06,
+			"portrait": "nico",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'm not really used to move the way you do."
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Beep Skadoop."
+		},
+		{
+			"speed": 0.04,
+			"portrait": "nico",
+			"boxState": "normal",
+			"expression": "talk2",
+			"text": "Was it good really...?"
+		},
+		{
+			"speed": 0.045,
+			"portrait": "nico",
+			"boxState": "normal",
+			"expression": "talk3_happy",
+			"text": "Surely it's easier than with my boyfriend..."
+		},
+		{
+			"speed": 0.055,
+			"portrait": "nico",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I can't keep the same pace like he does."
+		},
+		{
+			"speed": 0.045,
+			"portrait": "nico",
+			"boxState": "normal",
+			"expression": "talk3_happy",
+			"text": "I guess I could try again a bit harder..."
+		}
+	]
+}

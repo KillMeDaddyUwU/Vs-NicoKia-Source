@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "nico",
+			"boxState": "normal",
+			"expression": "talk3_happy",
+			"text": "That was fun... I like rapping with you."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep."
+		},
+		{
+			"speed": 0.045,
+			"portrait": "nico",
+			"boxState": "normal",
+			"expression": "talk2",
+			"text": "I don't want to go slow all the time... I really want to get better."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nico",
+			"boxState": "normal",
+			"expression": "talk3_happy",
+			"text": "I could try something else... Maybe it could work."
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Beep?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nico",
+			"boxState": "normal",
+			"expression": "talk2",
+			"text": "Oh!-- Just some power I have, that's all..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nico",
+			"boxState": "normal",
+			"expression": "talk3_happy",
+			"text": "Everyone has powers, right? Like their final move or something like that..."
+		}
+	]
+}

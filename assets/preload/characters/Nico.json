@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Nico_Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Nico_Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Nico_Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				73,
+				-8
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Nico_Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-5
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Nico_Up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Nico_smooth",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "nico",
+	"flip_x": false,
+	"healthbar_colors": [
+		20,
+		20,
+		40
+	],
+	"camera_position": [
+		-10,
+		75
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

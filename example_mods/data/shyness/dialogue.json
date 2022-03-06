@@ -1,0 +1,116 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.09,
+			"portrait": "nico",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Uhm--"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nico",
+			"boxState": "normal",
+			"expression": "talk3",
+			"text": "sorry if I interrupt you both..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nico",
+			"boxState": "normal",
+			"expression": "talk2",
+			"text": "Are you the boyfriend?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nico",
+			"boxState": "normal",
+			"expression": "talk3_happy",
+			"text": "The one that beated Daddy and Mommy\\ndearest...?"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Beep!"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "nico",
+			"boxState": "normal",
+			"expression": "talk3_happy",
+			"text": "Well everyone knows about that by now..."
+		},
+		{
+			"speed": 0.045,
+			"portrait": "nico",
+			"boxState": "normal",
+			"expression": "talk2",
+			"text": "You're very popular."
+		},
+		{
+			"speed": 0.055,
+			"portrait": "nico",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I was also trying to get into rap battling...\\nJust like my boyfriend."
+		},
+		{
+			"speed": 0.055,
+			"portrait": "nico",
+			"boxState": "normal",
+			"expression": "talk2_sad",
+			"text": "I was meaning to ask..."
+		},
+		{
+			"speed": 0.06,
+			"portrait": "nico",
+			"boxState": "normal",
+			"expression": "talk3",
+			"text": "If it's not a bother, could you help me out?"
+		},
+		{
+			"speed": 0.06,
+			"portrait": "nico",
+			"boxState": "normal",
+			"expression": "talk2_sad",
+			"text": "I want to get better, my boyfriend tried"
+		},
+		{
+			"speed": 0.06,
+			"portrait": "nico",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "but..."
+		},
+		{
+			"speed": 0.06,
+			"portrait": "nico",
+			"boxState": "normal",
+			"expression": "talk3",
+			"text": "The way he helps me is a bit complicated to be honest."
+		},
+		{
+			"speed": 0.03,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bap!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nico",
+			"boxState": "normal",
+			"expression": "talk2",
+			"text": "You will...?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nico",
+			"boxState": "normal",
+			"expression": "talk_happy",
+			"text": "Thank you!"
+		}
+	]
+}

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_nico.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle instance 10000" x="0" y="0" width="271" height="502" pivotX="-4" pivotY="18"/>
+	<SubTexture name="Idle instance 10001" x="0" y="0" width="271" height="502"/>
+	<SubTexture name="Idle instance 10002" x="271" y="0" width="271" height="502"/>
+	<SubTexture name="Idle instance 10003" x="542" y="0" width="271" height="502"/>
+	<SubTexture name="Idle instance 10004" x="542" y="0" width="271" height="502"/>
+	<SubTexture name="Idle instance 10005" x="542" y="0" width="271" height="502"/>
+	<SubTexture name="Idle instance 10006" x="542" y="0" width="271" height="502"/>
+	<SubTexture name="Idle instance 10007" x="542" y="0" width="271" height="502"/>
+	<SubTexture name="Idle instance 10008" x="542" y="0" width="271" height="502"/>
+	<SubTexture name="Idle instance 10009" x="542" y="0" width="271" height="502"/>
+	<SubTexture name="Idle instance 10010" x="542" y="0" width="271" height="502"/>
+	<SubTexture name="Idle instance 10011" x="542" y="0" width="271" height="502"/>
+	<SubTexture name="Idle instance 10012" x="542" y="0" width="271" height="502"/>
+	<SubTexture name="Idle instance 10013" x="542" y="0" width="271" height="502"/>
+</TextureAtlas>
